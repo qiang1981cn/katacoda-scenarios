@@ -1,7 +1,7 @@
-This is your first step.
+これは、最初のシナリオのステップです。
 
-## Task
+## タスク
 
-This is an _example_ of 日本語　creating a scenario and running a **command**
+下記のコマンドを実行します。 **command**
 
 `echo 'Hello World日本語'`{{execute}}
