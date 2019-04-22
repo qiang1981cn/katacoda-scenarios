@@ -4,4 +4,4 @@
 
 下記のコマンドを実行します。 **command**
 
-`echo 'Hello World日本語'`{{execute}}
+`echo 'Hello xxxWorld日本語'`{{execute}}
